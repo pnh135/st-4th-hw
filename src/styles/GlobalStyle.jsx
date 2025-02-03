@@ -6,10 +6,6 @@ const GlobalStyle = createGlobalStyle`
     body {
         text-align: center;
     }
-
-    active {
-        color: blue;
-    }
 `
  
 export default GlobalStyle;
